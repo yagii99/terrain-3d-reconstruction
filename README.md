@@ -8,9 +8,9 @@
 
 #### If you want to use it, just change the directory to your dataset's directory and try to put your camera parameters.
 
-#### if you want to have the poision remeshed result, download meshlab from [here](https://www.meshlab.net/#download), and enjoy remeshing 😁
+#### if you want to have the poisson remeshed result, download meshlab from [here](https://www.meshlab.net/#download), and enjoy remeshing 😁
 
-## Last Result:
+## final Result:
 
 ![result](https://github.com/yagii99/terrain-3d-reconstruction/blob/main/Assets/reconstruction.gif)
 
